@@ -78,7 +78,7 @@ const Form = () => {
 
 const Table = () => {
   const data = [
-    { id: 1, name: "Hakan Alptekin", email: "hakan@mail.com" },
+    { id: 1, name: "Namık Korona", email: "namık@mail.com" },
     { id: 2, name: "Eda Yılmaz", email: "eda@mail.com" },
     { id: 3, name: "Samet Demir", email: "samet@mail.com" },
   ];
